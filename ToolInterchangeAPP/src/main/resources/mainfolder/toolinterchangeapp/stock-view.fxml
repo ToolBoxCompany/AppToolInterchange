@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="194.0" prefWidth="365.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mainfolder.toolinterchangeapp.StockController">
+   <VBox prefHeight="198.0" prefWidth="365.0">
+      <children>
+         <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Pantalla de Stock" textAlignment="CENTER" wrappingWidth="364.603515625">
+            <font>
+               <Font name="Cambria Bold" size="18.0" />
+            </font></Text>
+         <VBox prefHeight="30.0" prefWidth="371.0">
+            <children>
+            
+                <Button fx:id="users" mnemonicParsing="false" onAction="#goMenu" prefHeight="7.0" prefWidth="369.0" text="Volver al inicio" />
+            </children>
+         </VBox>
+      </children>
+   </VBox>
+
+</AnchorPane>
