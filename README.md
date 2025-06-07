@@ -30,9 +30,16 @@
 ## 🗃 Base de Datos (XAMPP + MariaDB)
 
 - Usa **MariaDB incluida en XAMPP**.
-- La base de datos se llama `tool_interchange`.
+- La base de datos se llama `ToolInterchange`.
 - Esquema relacional que incluye:
   - Usuarios y direcciones
   - Herramientas por categorías
   - Órdenes de reserva
   - Entregas, pagos y valoraciones
+
+## ⚙️ Requisitos del sistema
+
+- Java JDK 17 o superior
+- JavaFX
+- XAMPP instalado y activado (MySQL/MariaDB en el puerto `3307`)
+- Base de datos `tool_interchange` ya creada y conectada
