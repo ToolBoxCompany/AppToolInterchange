@@ -42,4 +42,4 @@
 - Java JDK 17 o superior
 - JavaFX
 - XAMPP instalado y activado (MySQL/MariaDB en el puerto `3307`)
-- Base de datos `tool_interchange` ya creada y conectada
+- Base de datos `ToolInterchange` ya creada y conectada
